@@ -1,6 +1,6 @@
 team: Jaguars
 
-manager: Stanley
+manager : manager 수정
 
 members:
   - Caleb
